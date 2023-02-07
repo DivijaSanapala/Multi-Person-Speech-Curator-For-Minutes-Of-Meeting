@@ -1,0 +1,57 @@
+
+SPEAKER 1 0:00:00
+Good morning, Lucy. How are you? 
+SPEAKER 2 0:00:02
+Very well. Thanks. How about you? 
+SPEAKER 1 0:00:05
+I have a headache. 
+SPEAKER 2 0:00:06
+Did you go to the doctor or take medicine? 
+SPEAKER 1 0:00:09
+I'm stuck with a new project. It makes me overthink. 
+SPEAKER 2 0:00:12
+So the only cure is to get the job done. 
+SPEAKER 1 0:00:15
+I know, but how to do it, I don't know. 
+SPEAKER 2 0:00:18
+What project do I not know about? 
+SPEAKER 1 0:00:20
+I need to hire a company to write a sales website at a low cost. 
+SPEAKER 2 0:00:24
+It's too simple. I will send you a list of software companies that have worked with our company. 
+SPEAKER 1 0:00:29
+The bottom line is low cost. 
+SPEAKER 2 0:00:31
+Then negotiate with them. 
+SPEAKER 1 0:00:33
+The company that offers the lowest price has also three times the budget for the project. 
+SPEAKER 2 0:00:38
+Maybe you should ask John. I think he can help. 
+SPEAKER 1 0:00:41
+You're right. Let me call him. Hello John. How have you been? Well, a little crazy actually. Maybe someone needs to talk. I'm a bit busy. What are you doing calling me? I need your help on a low cost website project for the company. Wait a minute, I'll be right there. I thought you were busy. You're right, I need someone to talk to. Well then, talking in person is better than over the phone. Are you here too, Lucy? 
+SPEAKER 2 0:01:12
+I'm the one who mentioned you to Peter. 
+SPEAKER 1 0:01:14
+You two are my saviors. I still don't understand what you mean. 
+SPEAKER 2 0:01:18
+He needs to design a sales website for his company but cannot find it outsourced. 
+SPEAKER 1 0:01:23
+It's not that I can't find it, it's that the budget is too low.  
+SPEAKER 3 0:01:29
+How much budget?
+SPEAKER 1 0:01:31
+Five thousand dollars.
+SPEAKER 3 0:01:34
+Not too low, you can create it with web creation software. The site is complex and needs programming. It's hard at that price. 
+SPEAKER 2 0:01:39
+Why don't you ask for more budget? 
+SPEAKER 3 0:01:41
+I asked but was not accepted. 
+SPEAKER 1 0:01:43
+Perhaps our company is in financial difficulty. 
+SPEAKER 3 0:01:44
+The company's finances are in good shape. 
+SPEAKER 2 0:01:49
+Why be stingy with such an important project? 
+SPEAKER 1 0:01:52
+Our bosses are looking to save money. 
